@@ -1,0 +1,5 @@
+python-xstatic-hogan (2.0.0.2-1) unstable; urgency=medium
+
+  * Initial release. (Closes: #758041)
+
+ -- Thomas Goirand <zigo@debian.org>  Thu, 14 Aug 2014 00:25:35 +0800
