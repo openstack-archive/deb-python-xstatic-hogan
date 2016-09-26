@@ -8,8 +8,8 @@ Uploaders: Julien Danjou <acid@debian.org>,
            Gonéri Le Bouder <goneri@debian.org>
 Build-Depends: debhelper (>= 9), python-setuptools, python-all (>= 2.6.6-3~), python3-setuptools, python3-all
 Standards-Version: 3.9.5
-Vcs-Browser: https://anonscm.debian.org/cgit/openstack/python-xstatic-hogan.git/
-Vcs-Git: https://anonscm.debian.org/git/openstack/python-xstatic-hogan.git
+Vcs-Browser: https://git.openstack.org/cgit/openstack/deb-python-xstatic-hogan?h=debian%2Fnewton
+Vcs-Git: https://git.openstack.org/openstack/deb-python-xstatic-hogan -b debian/newton
 Homepage: http://twitter.github.io/hogan.js/
 
 Package: python-xstatic-hogan
