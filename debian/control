@@ -6,7 +6,7 @@ Uploaders: Julien Danjou <acid@debian.org>,
            Thomas Goirand <zigo@debian.org>,
            Mehdi Abaakouk <sileht@sileht.net>,
            Gonéri Le Bouder <goneri@debian.org>
-Build-Depends: debhelper (>= 9), python-setuptools, python-all (>= 2.6.6-3~), python3-setuptools, python3-all
+Build-Depends: debhelper (>= 10), python-setuptools, python-all (>= 2.6.6-3~), python3-setuptools, python3-all
 Standards-Version: 3.9.5
 Vcs-Browser: https://git.openstack.org/cgit/openstack/deb-python-xstatic-hogan?h=debian%2Fnewton
 Vcs-Git: https://git.openstack.org/openstack/deb-python-xstatic-hogan -b debian/newton
